@@ -1,6 +1,6 @@
 url: "https://kaisan969.github.io"
 
 plugins:
-  -jekyll-feed
-  -jekyll-sitemap
-  -jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
