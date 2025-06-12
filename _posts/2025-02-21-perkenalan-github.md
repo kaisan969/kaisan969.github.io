@@ -1,10 +1,13 @@
 ---
 layout: post
-title : "Perkenalan Github"
+title : "Perkenalan Lingkungan Kerja"
 ---
 
-Hari itu saya dikenalkan dengan Github...
 
 
-1.Edukasi tentang Gitbub
-2.Membuat akun Github
+Hari pertama MK, saya diarahkan untuk menginstall beberapa <Br>
+kebutuhan aplikasi dan tools, seperti : <br>
+1.Menginstall Ruby dan Jekyll <BR>
+2.Menginstall Git <br>
+
+Dan di hari itu saya juga diarahkan untuk membuat akun Github.. <BR>
