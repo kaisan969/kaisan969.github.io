@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "Belajar Buat Post"
+title : "Membuat folder HTML dan membuat Post"
 ---
 
 # Belajar Buat Post
