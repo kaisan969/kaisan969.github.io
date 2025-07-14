@@ -3,7 +3,9 @@ layout: post
 title : "Perkenalan Github page & Jekyll "
 ---
 
-Pertemuan 2
+Perkenalan Github page & Jekyll
+
+
 
 <p>
     Pada praktikum ini, kami mempelajari cara membuat dan mengelola personal website menggunakan 

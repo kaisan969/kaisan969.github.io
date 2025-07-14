@@ -3,5 +3,7 @@ layout: post
 title : "Belajar Buat SCSS"
 ---
 
-Pertemuan 8
+Belajar Buat SCSS
+
+
 Minggu itu saya belajar untuk memperindah web saya...

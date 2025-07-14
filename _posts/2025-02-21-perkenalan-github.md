@@ -3,7 +3,9 @@ layout: post
 title : "Perkenalan Lingkungan Kerja"
 ---
 
-Pertemuan 1
+Perkenalan Lingkungan Kerja
+
+
 
 Hari pertama MK, saya diarahkan untuk menginstall beberapa <Br>
 kebutuhan aplikasi dan tools, seperti : <br>
